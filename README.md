@@ -16,6 +16,16 @@ In addition to my work in data analysis, I also have a creative side and enjoy p
 - Data Analysis
 - Natural language processing
 - Web Scraping
+- GNU/Linux and FOSS
+
+## 📚 I'm Improving My Skills On
+
+- SQL
+- Artificial Intelligence (AI)
+- Git and GitHub
+- Clean code practices
+- Creative problem-solving
+- Technical writing and communication skills
 <br/><br/>
 
 ## 📊 My GitHub Stats 
