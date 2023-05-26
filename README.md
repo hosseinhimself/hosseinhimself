@@ -13,14 +13,14 @@ In addition to my work in data analysis, I also have a creative side and enjoy p
 ## 💼 I'm Presently Working On
 
 - Machine Learning (ML)
-- Data Analysis
+- Data Science
 - Natural language processing
 - Web Scraping
 - GNU/Linux and FOSS
+- SQL
 
 ## 📚 I'm Improving My Skills On
 
-- SQL
 - Artificial Intelligence (AI)
 - Git and GitHub
 - Clean code practices
