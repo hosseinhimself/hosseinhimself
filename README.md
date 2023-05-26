@@ -4,7 +4,7 @@ Hi there, I'm Hossein Mohseni 👋😊
 
 ##  🧑‍💻 About Me
 
-As a skilled data analyst and data mining specialist, I hold a degree in computer engineering and possess extensive knowledge and experience in the field of data science, machine learning, and AI. 🧑‍💻📈💻🤖 Throughout my five-year career, I have honed my skills in Python programming and have become particularly adept at natural language processing.🐍📊<br/>
+As a data scientist, I hold a degree in computer engineering and possess extensive knowledge and experience in the field of data science, machine learning, and AI. 🧑‍💻📈💻🤖 Throughout my five-year career, I have honed my skills in Python programming and have become particularly adept at natural language processing.🐍📊<br/>
 
 Beyond my technical expertise, I am a passionate advocate for GNU/Linux and software freedom (FOSS), and actively promote these principles to others whenever possible. In fact, I rely on Ubuntu as my primary operating system.💻🐧<br/>
 
