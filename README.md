@@ -22,6 +22,8 @@ In addition to my work in data analysis, I also have a creative side and enjoy p
 ## 📚 I'm Improving My Skills On
 
 - Artificial Intelligence (AI)
+- Large Language Model (Fine-Tunning)
+- HuggingFace Models
 - Git and GitHub
 - Clean code practices
 - Creative problem-solving
