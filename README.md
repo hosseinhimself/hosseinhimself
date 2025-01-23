@@ -37,4 +37,3 @@ In addition to my technical career, I find inspiration through music. I am a ski
 ## 📊 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseinhimself&show_icons=true&&line_height=40)  
-![Stats](https://github-profile-trophy-errir.vercel.app/?username=hosseinhimself&title=Commit,Repositories,Stars,Followers&margin-w=18)  
