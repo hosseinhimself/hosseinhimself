@@ -1,36 +1,40 @@
 <h3 align="center">
-Hi there, I'm Hossein Mohseni 👋😊
+Hello, I'm Hossein Mohseni 👋
 </h3>
 
-##  🧑‍💻 About Me
+---
 
-As a data scientist, I hold a degree in computer engineering and possess extensive knowledge and experience in the field of data science, machine learning, and AI. 🧑‍💻📈💻🤖 Throughout my five-year career, I have honed my skills in Python programming and have become particularly adept at natural language processing.🐍📊<br/>
+## 🧑‍💻 **About Me**
 
-Beyond my technical expertise, I am a passionate advocate for GNU/Linux and software freedom (FOSS), and actively promote these principles to others whenever possible. In fact, I rely on Ubuntu as my primary operating system.💻🐧<br/>
+I am an experienced **AI Engineer** with a strong background in **data science**, **machine learning**, and **artificial intelligence**. With a degree in **computer engineering** and over five years of professional experience, I have developed robust expertise in **Python programming**, **natural language processing (NLP)**, and building end-to-end AI solutions. My work combines technical rigor with creative problem-solving to deliver impactful results. 
 
-In addition to my work in data analysis, I also have a creative side and enjoy pursuing musical endeavors such as arranging music and playing Electric guitar. These activities help to fuel my passion for innovation and drive my efforts to excel in all aspects of my work. 🎶🎼🎹🎸
+As a dedicated advocate for **GNU/Linux** and **open-source software (FOSS)**, I actively promote software freedom principles and rely on **Ubuntu** as my primary operating system for development. This aligns with my commitment to building transparent, ethical, and scalable solutions.
 
-## 💼 I'm Presently Working On
+In addition to my technical career, I find inspiration through music. I am a skilled **electric guitarist** and enjoy arranging and composing music, balancing my analytical work with creative expression. This blend of creativity and technical expertise fuels my passion for innovation and problem-solving.
 
-- Machine Learning (ML)
-- Data Science
-- Natural language processing
-- Web Scraping
-- GNU/Linux and FOSS
-- SQL
+---
 
-## 📚 I'm Improving My Skills On
+## 💼 **What I’m Working On**
 
-- Artificial Intelligence (AI)
-- Large Language Model (Fine-Tunning)
-- HuggingFace Models
-- Git and GitHub
-- Clean code practices
-- Creative problem-solving
-- Technical writing and communication skills
-<br/><br/>
+- **Artificial Intelligence (AI):** Building scalable, innovative solutions using state-of-the-art techniques like transformers and fine-tuning large language models.
+- **Biomedical AI:** Developing AI-driven solutions for health monitoring, including signal processing and predictive analytics.
+- **Natural Language Processing (NLP):** Specializing in language models, classification tasks, and text analytics, with a focus on Persian NLP.
+- **Signal Processing:** Extracting and analyzing biomedical signals like PPG for healthcare applications.
+- **FOSS Advocacy:** Leveraging open-source tools and frameworks in all my projects.
 
-## 📊 My GitHub Stats 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseinhimself&show_icons=true&&line_height=40)
-![Stats](https://github-profile-trophy-errir.vercel.app/?username=hosseinhimself&title=Commit,Repositories,Stars,Followers&margin-w=18)
+## 📚 **What I’m Focused on Improving**
+
+- **Advanced AI Techniques:** Expanding my knowledge of **Retrieval-Augmented Generation (RAG)** and cutting-edge LLM fine-tuning methods.
+- **Transformer Models:** Working on models like **Hugging Face Transformers**, PEFT, and other parameter-efficient tuning techniques.
+- **Clean Coding Practices:** Improving code readability, scalability, and modularity for collaborative projects.
+- **Technical Writing:** Crafting detailed documentation, research papers, and blogs to share knowledge with others.
+- **Leadership & Mentorship:** Guiding teams and mentoring aspiring AI professionals to grow in the field.
+
+---
+
+## 📊 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosseinhimself&show_icons=true&&line_height=40)  
+![Stats](https://github-profile-trophy-errir.vercel.app/?username=hosseinhimself&title=Commit,Repositories,Stars,Followers&margin-w=18)  
